@@ -1,0 +1,14 @@
+.screenButton {
+    width: 30px;
+    height: 30px;
+    background: white;
+    overflow: hidden;
+    vertical-align: bottom;
+    border: none;
+    border-left: 1px solid lightblue;
+    border-top: 1px solid lightblue;
+    margin: 0;
+}
+body {
+    background: darkgrey;
+}
